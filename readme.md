@@ -5,7 +5,7 @@ This application uses :
 * [React](http://facebook.github.io/react/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [WebPack](https://webpack.js.org/)
-* [Babel] (https://babeljs.io/)
+* [Babel](https://babeljs.io/)
 * [TSLint](https://github.com/palantir/tslint)
 * [Springboot](http://spring.io/)
 * [Log4J](https://logging.apache.org/log4j/2.x/)
